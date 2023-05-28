@@ -1,0 +1,563 @@
+Gender,Age,Weight,Height,Activity Level
+F,56,63.81,183.29,very active
+M,46,48.0,176.62,extra active
+F,32,44.28,196.96,extra active
+F,60,116.68,163.8,sedentary
+F,25,107.77,197.25,extra active
+F,38,68.39,148.1,moderately active
+F,56,116.54,169.03,sedentary
+F,36,94.14,156.19,sedentary
+F,40,78.6,172.39,sedentary
+M,28,79.44,149.72,sedentary
+M,28,46.66,190.49,sedentary
+F,41,47.34,190.78,lightly active
+F,53,88.2,197.31,sedentary
+M,57,84.3,149.28,moderately active
+F,41,57.02,177.4,extra active
+M,20,115.7,168.45,moderately active
+M,39,102.5,160.66,extra active
+M,19,49.08,161.09,sedentary
+F,41,114.47,164.77,sedentary
+F,61,117.94,182.3,sedentary
+M,47,119.67,175.9,sedentary
+M,55,44.47,167.58,extra active
+M,19,98.96,144.56,sedentary
+M,38,83.67,144.67,sedentary
+M,50,96.47,140.14,very active
+F,29,117.49,198.06,moderately active
+M,39,95.04,140.32,moderately active
+F,61,106.96,146.19,lightly active
+M,42,109.35,158.88,sedentary
+F,44,107.08,188.45,extra active
+F,59,74.09,197.73,very active
+F,45,57.81,187.4,very active
+F,33,71.73,181.43,moderately active
+F,32,111.35,171.28,sedentary
+F,64,51.73,145.2,lightly active
+M,61,81.07,197.49,sedentary
+F,20,58.66,185.5,sedentary
+M,54,86.5,178.34,sedentary
+F,24,109.05,185.54,sedentary
+F,38,110.43,183.45,sedentary
+M,26,58.93,178.23,lightly active
+F,56,112.62,198.83,extra active
+M,35,87.35,194.2,moderately active
+M,21,68.02,178.8,sedentary
+M,42,96.65,181.59,sedentary
+M,31,78.53,143.1,sedentary
+F,26,70.24,180.2,extra active
+F,43,96.41,142.65,moderately active
+M,19,59.9,175.3,extra active
+F,37,66.42,199.96,moderately active
+F,45,74.76,173.35,very active
+M,64,60.29,168.39,moderately active
+F,24,72.42,158.77,lightly active
+M,61,85.72,147.23,extra active
+M,25,99.28,183.86,sedentary
+F,64,101.38,151.56,very active
+F,52,105.82,146.92,lightly active
+F,31,99.54,165.31,sedentary
+M,34,94.48,187.72,extra active
+M,53,59.0,184.7,sedentary
+F,57,72.02,143.29,moderately active
+F,21,78.22,167.31,sedentary
+F,19,46.63,171.35,sedentary
+F,23,82.27,178.67,very active
+M,59,74.91,179.01,very active
+F,21,104.17,161.88,extra active
+M,46,118.23,173.64,very active
+M,35,84.48,168.86,extra active
+F,43,65.81,193.1,extra active
+F,61,43.47,171.82,extra active
+F,51,113.97,166.46,moderately active
+M,27,113.53,164.27,lightly active
+F,53,60.24,174.35,extra active
+F,31,95.63,188.24,extra active
+M,48,46.03,172.3,lightly active
+F,32,53.3,179.7,moderately active
+M,25,57.34,184.27,extra active
+F,31,63.56,171.21,moderately active
+M,40,119.67,165.61,very active
+F,57,95.75,192.6,very active
+F,38,70.74,165.05,sedentary
+M,33,98.97,167.72,sedentary
+M,62,113.22,199.42,very active
+F,35,116.7,140.01,very active
+M,64,44.63,151.13,moderately active
+M,41,71.56,163.04,lightly active
+M,43,48.54,195.96,sedentary
+M,42,66.85,144.2,lightly active
+F,62,53.57,140.57,moderately active
+F,58,91.75,143.16,very active
+M,46,71.06,145.31,extra active
+M,32,58.35,142.26,lightly active
+M,62,61.28,168.79,very active
+M,18,68.83,174.85,very active
+F,42,60.8,156.3,moderately active
+F,24,76.26,163.9,lightly active
+M,26,42.59,145.5,extra active
+M,41,62.38,160.18,lightly active
+M,18,72.9,171.35,very active
+F,61,88.22,183.94,extra active
+M,25,61.68,140.2,moderately active
+F,41,50.65,168.04,moderately active
+M,28,46.1,157.82,very active
+F,34,115.24,191.17,sedentary
+M,25,73.33,182.93,sedentary
+F,52,86.49,175.35,moderately active
+M,52,113.53,156.64,moderately active
+M,50,46.62,194.62,very active
+M,22,110.13,142.71,lightly active
+F,59,84.13,146.57,moderately active
+M,56,53.19,163.5,moderately active
+F,58,72.9,147.47,lightly active
+F,45,102.21,197.38,sedentary
+M,24,78.43,187.88,sedentary
+M,26,118.82,155.54,lightly active
+M,25,70.14,175.31,moderately active
+F,29,99.97,198.94,sedentary
+M,51,71.44,193.05,very active
+F,50,106.33,176.05,extra active
+F,40,85.53,194.22,lightly active
+M,41,45.08,199.35,lightly active
+M,54,42.95,184.6,sedentary
+M,52,50.71,143.9,moderately active
+M,61,41.09,164.09,very active
+M,57,46.03,190.27,moderately active
+M,39,95.34,153.83,moderately active
+F,44,82.75,189.84,moderately active
+F,52,99.99,147.22,extra active
+F,18,113.05,142.82,sedentary
+M,52,86.81,163.05,sedentary
+F,54,98.09,142.2,sedentary
+F,64,100.57,197.44,extra active
+F,31,70.23,189.57,moderately active
+F,20,59.29,188.05,moderately active
+F,18,56.4,177.79,extra active
+M,22,60.12,152.98,extra active
+M,43,61.98,171.1,moderately active
+F,31,56.58,175.84,sedentary
+F,56,110.26,171.5,very active
+F,44,100.56,155.61,moderately active
+M,26,43.75,170.91,moderately active
+M,32,61.49,169.47,lightly active
+F,32,41.77,199.78,lightly active
+M,43,79.85,193.85,extra active
+M,59,78.1,167.8,lightly active
+F,30,106.51,177.38,very active
+M,49,64.62,184.87,sedentary
+M,56,105.31,142.09,moderately active
+F,49,117.44,193.7,very active
+M,21,47.07,191.61,moderately active
+M,47,103.35,167.45,moderately active
+F,54,87.2,163.47,sedentary
+M,40,78.4,156.38,extra active
+M,56,73.64,168.6,lightly active
+F,62,102.77,142.66,sedentary
+F,32,91.15,191.13,very active
+F,60,104.4,142.13,extra active
+M,46,112.25,159.74,very active
+F,53,89.38,195.9,extra active
+M,30,118.44,184.11,very active
+F,49,88.65,156.88,sedentary
+M,24,90.93,155.16,extra active
+F,39,84.39,140.3,extra active
+F,45,47.28,181.74,moderately active
+F,19,98.11,142.93,moderately active
+F,59,83.8,171.96,moderately active
+M,62,76.07,197.73,very active
+F,23,112.84,146.57,moderately active
+F,45,63.84,193.67,moderately active
+M,45,81.89,199.49,moderately active
+F,61,95.81,143.69,very active
+M,61,103.72,192.97,extra active
+F,37,76.75,170.96,lightly active
+F,47,107.37,194.39,very active
+F,28,101.51,174.28,sedentary
+M,45,45.3,179.73,moderately active
+F,42,43.67,172.63,moderately active
+F,56,89.66,191.87,extra active
+F,50,67.79,184.03,sedentary
+M,18,56.73,171.28,extra active
+M,44,86.37,192.09,sedentary
+F,30,67.33,154.72,lightly active
+M,58,82.98,149.44,moderately active
+F,20,76.81,149.62,moderately active
+F,56,86.78,160.04,lightly active
+F,23,72.02,154.32,moderately active
+F,25,95.81,195.81,extra active
+F,44,54.41,146.35,lightly active
+F,26,95.72,181.94,extra active
+F,54,72.93,151.35,very active
+M,50,109.95,192.9,moderately active
+M,59,81.22,197.68,extra active
+M,61,117.85,167.93,sedentary
+M,41,88.15,192.74,extra active
+M,32,57.91,140.31,very active
+M,49,105.74,189.2,moderately active
+M,49,67.61,153.72,lightly active
+F,41,67.81,194.52,very active
+F,58,42.54,140.07,moderately active
+F,29,83.9,173.37,extra active
+F,56,82.75,185.4,moderately active
+M,19,68.48,155.52,very active
+M,20,111.54,151.59,sedentary
+F,54,50.3,145.05,moderately active
+F,34,66.41,159.59,very active
+M,19,65.73,173.59,lightly active
+F,19,47.38,146.95,moderately active
+F,45,78.49,162.6,lightly active
+F,40,95.02,140.54,lightly active
+F,54,80.93,189.12,very active
+M,49,52.56,147.71,moderately active
+F,50,70.18,157.0,extra active
+F,18,40.21,141.11,very active
+M,36,109.46,165.93,very active
+M,19,46.76,190.41,very active
+F,61,87.78,163.53,extra active
+M,43,118.9,150.77,moderately active
+F,49,82.93,185.22,moderately active
+F,23,113.92,187.33,lightly active
+M,49,58.89,150.43,extra active
+F,21,100.8,186.25,extra active
+F,28,82.5,196.84,moderately active
+F,34,97.64,149.98,lightly active
+F,55,44.99,186.26,very active
+M,41,51.82,182.51,sedentary
+M,22,50.65,168.41,very active
+F,51,94.97,143.48,very active
+M,23,107.56,144.48,moderately active
+F,39,99.97,191.14,very active
+F,28,42.44,199.41,sedentary
+F,33,109.38,180.56,sedentary
+F,50,68.33,166.76,lightly active
+F,26,71.77,178.85,very active
+M,23,48.39,175.66,lightly active
+F,33,98.99,163.02,very active
+M,46,54.58,143.94,extra active
+M,20,85.12,189.29,extra active
+F,37,107.26,162.31,extra active
+F,53,47.14,189.13,very active
+F,36,82.83,155.15,extra active
+F,43,58.66,140.06,very active
+F,20,67.43,149.54,lightly active
+M,36,77.92,168.11,very active
+F,37,68.41,196.66,lightly active
+F,49,91.91,146.13,very active
+M,24,78.37,191.25,lightly active
+M,58,86.74,171.62,sedentary
+F,50,98.95,189.56,lightly active
+M,57,84.62,157.9,extra active
+F,56,86.92,190.4,sedentary
+M,35,85.16,186.37,lightly active
+M,57,70.3,153.8,very active
+F,18,67.0,147.88,very active
+M,28,111.97,192.08,very active
+M,45,88.6,197.79,moderately active
+M,42,59.55,141.88,very active
+M,40,79.86,183.88,very active
+M,48,66.43,194.57,sedentary
+M,47,114.7,191.44,very active
+F,59,40.6,197.87,moderately active
+F,52,58.03,185.61,extra active
+M,24,69.23,166.54,sedentary
+F,33,79.02,158.72,moderately active
+F,43,108.07,159.24,extra active
+F,19,47.03,183.47,sedentary
+M,18,104.47,184.75,lightly active
+F,29,44.45,152.02,very active
+M,22,107.39,192.09,very active
+F,54,44.13,182.9,moderately active
+M,49,41.46,173.77,extra active
+M,26,95.76,168.29,very active
+F,58,119.78,172.59,extra active
+F,52,111.73,149.55,extra active
+M,36,86.08,152.22,moderately active
+F,33,113.39,145.47,moderately active
+F,20,40.42,149.22,moderately active
+F,37,118.01,167.22,very active
+M,41,79.26,171.82,moderately active
+M,50,97.83,141.07,very active
+F,41,105.67,187.81,moderately active
+F,28,97.48,157.65,very active
+F,25,82.8,194.71,extra active
+M,53,78.13,198.05,moderately active
+M,55,107.09,151.13,sedentary
+F,57,56.41,167.73,extra active
+F,37,117.44,140.07,extra active
+F,52,96.88,175.9,moderately active
+F,42,55.96,176.44,lightly active
+F,52,98.9,154.85,moderately active
+F,42,82.39,173.5,extra active
+M,46,96.58,153.53,sedentary
+F,35,101.42,149.65,extra active
+M,63,46.98,179.09,sedentary
+F,35,80.49,159.56,very active
+F,19,114.56,175.42,very active
+M,52,65.65,165.99,extra active
+M,33,87.51,199.06,moderately active
+M,58,69.54,148.97,very active
+M,53,76.34,167.88,very active
+F,50,83.89,180.83,moderately active
+M,21,83.91,163.73,lightly active
+F,50,56.14,198.48,moderately active
+M,31,94.77,183.31,sedentary
+F,38,47.03,179.42,sedentary
+F,37,51.11,185.42,lightly active
+F,25,40.22,197.16,very active
+F,24,49.34,194.47,very active
+F,20,77.85,183.46,moderately active
+F,34,88.49,184.95,sedentary
+M,50,103.54,148.76,very active
+F,29,48.54,146.17,lightly active
+M,39,108.06,174.25,extra active
+M,39,99.68,141.1,sedentary
+F,63,72.68,168.94,lightly active
+M,47,114.64,152.62,moderately active
+F,55,119.27,160.76,very active
+M,55,56.4,186.55,sedentary
+F,62,70.34,196.47,sedentary
+M,25,114.12,144.34,moderately active
+F,44,97.73,172.05,extra active
+F,44,43.85,192.95,very active
+F,51,102.52,144.95,very active
+F,38,106.24,189.47,sedentary
+M,47,100.04,161.47,very active
+F,50,103.96,159.33,sedentary
+M,45,106.01,198.65,very active
+M,64,54.91,152.05,lightly active
+M,50,58.86,181.59,sedentary
+F,22,90.7,189.29,very active
+M,36,112.63,142.47,very active
+M,21,65.3,180.22,lightly active
+M,52,87.06,197.09,lightly active
+F,34,94.64,147.45,very active
+F,61,76.16,193.77,very active
+M,45,97.1,175.69,moderately active
+F,47,111.97,177.0,very active
+F,46,89.93,176.78,very active
+M,63,83.18,157.93,very active
+M,23,75.1,196.11,very active
+F,52,86.2,196.84,sedentary
+M,58,68.43,177.52,very active
+F,54,71.32,187.01,moderately active
+F,41,82.55,176.74,sedentary
+F,46,45.33,169.06,very active
+F,63,58.32,179.65,extra active
+F,48,83.43,173.18,very active
+F,52,74.52,175.85,very active
+M,50,66.63,187.03,very active
+M,38,98.44,168.85,very active
+F,49,95.5,142.45,sedentary
+F,40,53.34,149.84,moderately active
+F,50,110.29,166.32,sedentary
+M,20,79.63,183.49,lightly active
+F,35,99.32,175.6,very active
+M,42,85.85,179.02,extra active
+F,59,119.82,168.76,very active
+F,48,100.19,176.94,very active
+M,20,96.56,159.74,sedentary
+M,57,102.29,168.21,extra active
+F,63,51.45,184.66,extra active
+F,41,56.36,192.31,extra active
+F,49,97.13,166.02,sedentary
+M,64,79.52,142.62,very active
+M,39,100.37,149.7,sedentary
+M,40,48.23,141.25,very active
+M,19,82.92,179.2,very active
+M,44,70.31,159.94,sedentary
+M,59,76.56,172.55,extra active
+F,19,88.32,169.6,very active
+F,43,80.18,144.89,sedentary
+M,34,83.19,164.2,sedentary
+F,57,78.91,153.23,sedentary
+F,50,72.72,165.1,lightly active
+M,26,101.75,152.21,very active
+F,60,40.98,190.43,extra active
+M,56,87.88,150.45,moderately active
+M,46,85.24,197.65,extra active
+F,59,97.29,164.95,moderately active
+M,43,87.92,190.77,lightly active
+M,52,106.14,177.73,sedentary
+M,42,116.73,184.12,lightly active
+M,41,67.4,186.06,lightly active
+M,30,58.19,170.29,very active
+M,24,73.89,172.6,very active
+M,53,63.03,170.84,moderately active
+M,62,89.2,175.28,sedentary
+F,37,112.95,141.76,moderately active
+F,18,51.13,163.73,extra active
+F,25,48.06,176.37,moderately active
+M,63,60.48,175.86,extra active
+M,33,98.09,187.58,very active
+F,31,87.44,179.3,extra active
+F,29,48.18,199.53,moderately active
+F,40,113.5,157.03,moderately active
+M,32,103.21,161.55,extra active
+F,45,41.84,163.03,lightly active
+F,51,92.11,167.95,very active
+M,19,101.7,190.16,very active
+F,49,69.95,154.15,sedentary
+M,40,45.51,186.56,moderately active
+M,39,46.19,164.32,sedentary
+M,42,48.34,176.11,very active
+F,39,107.24,177.95,sedentary
+F,39,112.85,162.37,extra active
+M,59,49.82,170.76,extra active
+F,23,58.87,164.78,lightly active
+F,32,53.24,144.15,moderately active
+F,60,54.91,166.23,extra active
+F,54,107.0,145.84,sedentary
+M,50,66.57,164.3,moderately active
+F,25,64.92,175.58,lightly active
+M,61,58.19,174.76,extra active
+M,61,88.63,179.76,moderately active
+F,22,70.34,145.72,extra active
+M,56,99.54,179.13,lightly active
+F,21,56.45,158.73,sedentary
+F,23,103.02,163.94,lightly active
+M,62,88.3,191.48,lightly active
+M,49,49.14,140.54,very active
+M,47,73.16,175.3,lightly active
+M,64,109.08,175.92,lightly active
+F,52,113.84,163.8,moderately active
+F,57,77.26,154.22,sedentary
+F,33,78.47,154.08,moderately active
+M,30,113.48,193.02,moderately active
+M,59,86.97,166.52,extra active
+M,47,42.63,159.85,moderately active
+F,36,113.02,166.93,very active
+M,34,59.86,180.16,very active
+F,36,86.21,148.75,extra active
+M,45,53.24,166.97,extra active
+F,43,42.71,175.27,sedentary
+F,54,64.92,196.92,sedentary
+M,43,102.44,155.15,moderately active
+M,40,62.21,161.56,moderately active
+F,26,57.61,162.76,extra active
+F,29,57.01,176.33,moderately active
+M,18,81.21,161.4,sedentary
+M,18,118.04,172.01,lightly active
+F,64,76.72,186.91,very active
+M,51,84.58,182.32,lightly active
+F,49,108.85,166.78,lightly active
+F,42,82.81,191.85,sedentary
+M,57,54.76,173.49,lightly active
+M,62,63.97,172.39,extra active
+M,18,64.79,142.05,extra active
+M,33,71.79,199.2,moderately active
+M,56,74.14,147.38,extra active
+F,22,103.98,153.87,very active
+F,39,67.95,143.1,moderately active
+M,46,77.46,178.4,lightly active
+M,20,90.0,153.48,very active
+M,29,70.22,150.8,moderately active
+F,43,106.93,145.31,extra active
+M,33,87.0,146.2,extra active
+M,54,63.52,175.08,extra active
+F,39,97.12,181.29,extra active
+F,46,82.21,163.84,lightly active
+M,31,82.76,168.79,extra active
+M,45,78.49,181.16,moderately active
+M,22,79.76,141.04,lightly active
+F,64,101.23,159.39,extra active
+M,47,48.24,198.39,extra active
+M,63,66.75,174.81,very active
+M,22,46.04,155.25,very active
+F,29,100.26,171.3,very active
+F,33,61.78,160.56,extra active
+M,43,111.79,171.93,very active
+M,43,82.13,147.54,sedentary
+F,38,104.06,147.96,moderately active
+F,56,118.31,148.61,moderately active
+F,53,107.18,196.39,extra active
+F,50,109.36,183.97,sedentary
+F,47,72.64,149.74,lightly active
+F,54,84.14,151.3,lightly active
+F,40,60.31,183.85,very active
+F,27,55.69,149.37,extra active
+F,22,80.44,154.07,lightly active
+M,53,87.6,197.8,extra active
+M,51,67.14,155.32,moderately active
+M,48,85.56,179.7,extra active
+F,27,111.0,198.72,moderately active
+M,36,84.54,162.46,sedentary
+F,49,97.67,141.05,sedentary
+F,18,104.43,154.65,extra active
+M,22,119.1,189.85,extra active
+F,62,88.26,191.88,very active
+M,21,104.55,186.11,lightly active
+M,33,117.01,146.79,very active
+M,41,115.55,187.73,moderately active
+F,33,51.29,195.12,very active
+M,19,72.51,176.04,extra active
+F,45,65.92,196.45,moderately active
+M,49,46.95,189.61,extra active
+M,44,90.66,180.02,sedentary
+M,37,98.87,174.63,extra active
+F,41,107.85,160.91,lightly active
+F,29,49.82,149.56,moderately active
+F,52,110.12,176.3,moderately active
+M,50,91.43,159.09,extra active
+M,50,96.32,191.99,lightly active
+F,60,112.85,199.6,sedentary
+F,54,89.98,185.15,moderately active
+F,29,66.87,145.43,moderately active
+F,20,106.01,157.32,extra active
+F,18,69.04,146.55,very active
+F,50,42.74,179.03,sedentary
+M,57,106.45,185.91,extra active
+F,27,67.62,195.54,lightly active
+M,60,101.91,166.29,moderately active
+M,61,69.02,194.08,moderately active
+F,46,108.89,192.67,extra active
+F,30,57.56,159.03,sedentary
+M,29,117.96,192.13,very active
+F,48,102.38,162.54,moderately active
+F,63,49.14,157.81,sedentary
+M,19,85.26,178.94,extra active
+M,52,118.83,159.7,extra active
+M,40,77.69,177.81,very active
+F,34,54.57,176.59,lightly active
+M,43,78.78,173.81,moderately active
+F,25,81.0,162.83,sedentary
+M,46,99.33,172.91,extra active
+M,43,95.91,175.79,lightly active
+M,27,72.2,172.74,sedentary
+F,43,57.44,166.67,sedentary
+F,51,91.6,140.88,lightly active
+M,58,73.74,175.22,extra active
+M,24,50.58,150.11,extra active
+M,21,112.05,178.55,extra active
+F,62,95.3,185.56,very active
+M,28,94.65,170.03,moderately active
+F,46,105.81,172.54,lightly active
+M,53,82.37,197.09,extra active
+M,42,105.2,190.83,lightly active
+M,38,79.85,194.85,lightly active
+M,53,45.37,188.83,extra active
+M,27,72.42,146.54,moderately active
+M,54,79.8,148.94,very active
+F,26,97.62,171.6,sedentary
+M,41,48.53,154.76,sedentary
+F,52,51.2,168.6,lightly active
+M,52,61.09,163.66,moderately active
+M,53,61.32,172.96,extra active
+F,35,98.57,184.81,extra active
+M,56,60.06,182.93,moderately active
+F,49,90.65,171.27,moderately active
+F,41,79.54,189.34,extra active
+M,40,85.86,165.85,lightly active
+F,49,107.05,193.8,moderately active
+F,54,72.35,144.28,sedentary
+M,29,101.67,197.28,extra active
+F,30,73.76,179.28,extra active
+M,40,68.31,162.8,very active
+M,42,116.69,151.83,lightly active
+M,52,54.75,168.75,extra active
+M,58,47.23,151.67,very active
+F,47,101.68,149.98,very active
+M,34,45.46,177.04,extra active
+M,37,106.97,171.39,moderately active
+F,42,74.98,180.21,extra active
+M,39,113.24,195.78,moderately active
