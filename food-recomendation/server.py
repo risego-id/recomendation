@@ -105,7 +105,8 @@ def get_food_recommendations(model, user_data, food_data, num_food, calorie_inpu
 @app.route('/food_recommendations', methods=['POST'])
 def food_recommendations():
     data = request.json  # Get the JSON data from the request
-    calorie_input = data['calorie_input']  # Extract the desired calorie value from the JSON data
+    data["Activity Level"] = "lightly active"
+    calorie_input = calculate_calories(data)  # Extract the desired calorie value from the JSON data
 
     # Get the food recommendations
     recommendations = get_food_recommendations(model, user_data, food_data, num_food, calorie_input)
